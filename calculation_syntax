@@ -1,0 +1,26 @@
+{
+ "name": "Your Taxable Income",
+ "children": [
+  {
+   "name": "Health Care",
+   "children": [
+    {
+     "name": "Medicaid and Children's Health Insurance Program (CHIP)", "size": 20
+    },
+    {
+     "name": "Medicare doctor payments and prescription drug payments", "size": 20
+    },
+    {
+     "name": "Additional health care activities", "size": 20
+    },
+    {
+     "name": "Health research and food safety", "size": 20
+     ]
+    },
+    {
+     "name": "Disease control and public health services", "size": 20 
+     ]
+    },
+   ]
+  }
+  }
