@@ -19,7 +19,6 @@ text {
 
 var width = 960,
     height = 1700,
-    padding-top = 250,
     radius = Math.min(width, height) / 2;
 
 var x = d3.scale.linear()
@@ -33,7 +32,6 @@ var color = d3.scale.category20c();
 var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height)
-    .attr("padding-top", padding-top)
   .append("g")
     .attr("transform", "translate(" + width / 2 + "," + (height / 2 + 10) + ")");
 
