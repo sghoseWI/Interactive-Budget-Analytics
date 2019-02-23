@@ -1,3 +1,3 @@
 # Interactive-Budget-Analytics
 
-sghosewi.github.io/Interactive-Budget-Analytics
+https://sghosewi.github.io/Interactive-Budget-Analytics
